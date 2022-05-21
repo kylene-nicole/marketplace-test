@@ -14,14 +14,22 @@ Dependencies:
   - Node.js
   - npm
 
-Install Shopify CLI via Homebrew
-```
-brew tap shopify/shopify
-brew install shopify-cli
-```
+  Install Shopify CLI via Homebrew
+  ```
+  brew tap shopify/shopify
+  brew install shopify-cli
+  ```
 
-Reference:
-Incase of difficulty...
+  Incase of difficulty...
 
-https://shopify.dev/apps/tools/cli/core-commands
-https://shopify.dev/apps/tools/cli/upgrade-uninstall
+  https://shopify.dev/apps/tools/cli/core-commands
+  https://shopify.dev/apps/tools/cli/upgrade-uninstall
+
+* Sequelize CLI (Channel app ORM)
+* Yarn
+* [GraphQL and REST Admin API + Authenticated + offline access mode](https://shopify.dev/api/admin/getting-started)
+* Partner acct and dev store setup
+* Understand apps on shopify
+* Channels on shopify
+* turned your app into a sales channel
+* Storefront API
