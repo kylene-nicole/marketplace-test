@@ -14,8 +14,9 @@ Also:
 - npm
 
 Install Shopify CLI via Homebrew
-### brew tap shopify/shopify
-### brew install shopify-cli
+brew tap shopify/shopify
+
+brew install shopify-cli
 
 Reference:
 Incase of difficulty...
