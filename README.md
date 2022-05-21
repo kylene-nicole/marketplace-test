@@ -25,11 +25,13 @@ Dependencies:
   https://shopify.dev/apps/tools/cli/core-commands
   https://shopify.dev/apps/tools/cli/upgrade-uninstall
 
-* Sequelize CLI (Channel app ORM)
-* Yarn
-* [GraphQL and REST Admin API + Authenticated + offline access mode](https://shopify.dev/api/admin/getting-started)
+* [Sequelize CLI (Channel app ORM)](https://github.com/sequelize/cli)
+* [Sequalize](https://sequelize.org/)
+* [Yarn](https://classic.yarnpkg.com/en/)
+* [GraphQL and REST Admin API + Authenticated](https://shopify.dev/api/admin/getting-started) + [offline access mode](https://shopify.dev/apps/auth/oauth/access-modes#offline-access)
 * Partner acct and dev store setup
-* Understand apps on shopify
-* Channels on shopify
-* turned your app into a sales channel
-* Storefront API
+* [Understand apps on shopify](https://shopify.dev/apps/getting-started#how-apps-fit-into-shopify)
+https://shopify.dev/apps/getting-started/app-types
+* [Channels on shopify](https://shopify.dev/apps/channels)
+* [turned your app into a sales channel](https://shopify.dev/apps/channels/getting-started#step-1-turn-an-app-into-a-sales-channel-app)
+* [Storefront API](https://shopify.dev/api/storefront)
