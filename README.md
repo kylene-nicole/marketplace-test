@@ -21,5 +21,6 @@ brew install shopify-cli
 
 Reference:
 Incase of difficulty...
+
 https://shopify.dev/apps/tools/cli/core-commands
 https://shopify.dev/apps/tools/cli/upgrade-uninstall
