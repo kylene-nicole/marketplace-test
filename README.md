@@ -4,14 +4,15 @@ Shopify Marketplace Kit - Playground
 https://shopify.dev/apps/tools/cli/installation
 
 Dependencies:
-- Ruby 2.7 ^
-- Git
-- Shopify Partner Acct
-- Shopify Development Store
+* Shopify CLI
+  - Ruby 2.7 ^
+  - Git
+  - Shopify Partner Acct
+  - Shopify Development Store
 
-Also:
-- Node.js
-- npm
+  Also:
+  - Node.js
+  - npm
 
 Install Shopify CLI via Homebrew
 ```
