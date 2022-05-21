@@ -31,7 +31,8 @@ Dependencies:
 * [GraphQL and REST Admin API + Authenticated](https://shopify.dev/api/admin/getting-started) + [offline access mode](https://shopify.dev/apps/auth/oauth/access-modes#offline-access)
 * Partner acct and dev store setup
 * [Understand apps on shopify](https://shopify.dev/apps/getting-started#how-apps-fit-into-shopify)
+
 https://shopify.dev/apps/getting-started/app-types
 * [Channels on shopify](https://shopify.dev/apps/channels)
-* [turned your app into a sales channel](https://shopify.dev/apps/channels/getting-started#step-1-turn-an-app-into-a-sales-channel-app)
+* [Turn your app into a sales channel](https://shopify.dev/apps/channels/getting-started#step-1-turn-an-app-into-a-sales-channel-app)
 * [Storefront API](https://shopify.dev/api/storefront)
